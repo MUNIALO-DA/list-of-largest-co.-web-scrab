@@ -1,0 +1,1 @@
+this is an end to end procedure that scrapes data from the wikipedia website. i have scrapped data on the list of the largest companies by revenue in the USA, cleaned it and presented it in a table format

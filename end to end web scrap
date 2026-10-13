@@ -1,0 +1,144 @@
+1018
+1019
+1020
+1021
+1022
+1023
+1024
+1025
+1026
+1027
+1028
+1029
+1030
+1031
+1032
+1033
+1034
+1035
+1036
+1037
+1038
+1039
+1040
+1041
+1042
+1043
+1044
+1045
+1046
+1047
+1048
+1049
+1050
+1051
+1052
+1053
+1054
+1055
+1056
+1057
+1058
+1059
+1060
+1061
+1062
+1063
+1064
+1065
+1066
+1067
+1068
+1069
+1070
+1071
+1072
+1073
+1074
+1075
+1076
+1077
+1078
+1079
+1080
+1081
+1082
+1083
+1084
+1085
+1086
+1087
+1088
+{
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "4dmLSHp3colf",
+        "outputId": "086e4e99-302a-4817-e1f6-6138b4738633"
+      },
+      "execution_count": 9,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "<table class=\"wikitable sortable\" id=\"mwOw\">\n",
+              "<caption id=\"mwPA\"></caption>\n",
+              "<tbody id=\"mwPQ\"><tr id=\"mwPg\"><th id=\"mwPw\">Rank</th>\n",
+              "<th id=\"mwQA\">Name</th>\n",
+              "<th id=\"mwQQ\">Industry</th>\n",
+              "<th id=\"mwQg\">Revenue <br id=\"mwQw\"/>(USD millions)</th>\n",
+              "<th id=\"mwRA\">Revenue growth</th>\n",
+              "<th id=\"mwRQ\">Employees</th>\n",
+              "<th id=\"mwRg\">Headquarters</th></tr>\n",
+              "<tr id=\"mwRw\">\n",
+              "<td id=\"mwSA\">1</td>\n",
+              "<td id=\"mwSQ\"><a href=\"https://en.wikipedia.org/wiki/Walmart\" id=\"mwSg\" rel=\"mw:WikiLink\" title=\"Walmart\">Walmart</a></td>\n",
+              "<td id=\"mwSw\">Retail</td>\n",
+              "<td id=\"mwTA\" style=\"text-align:center;\">680,985</td>\n",
+              "<td id=\"mwTQ\" style=\"text-align:center;\"><span about=\"#mwt7\" data-mw='{\"caption\":\"Increase\",\"parts\":[{\"template\":{\"target\":{\"wt\":\"profit\",\"href\":\"./Template:Profit\"},\"params\":{},\"i\":0}}]}' id=\"mwTg\" typeof=\"mw:Transclusion mw:File\"><span title=\"Increase\"><img alt=\"Increase\" class=\"mw-file-element\" data-file-height=\"300\" data-file-type=\"drawing\" data-file-width=\"300\" decoding=\"async\" height=\"11\" loading=\"lazy\" resource=\"https://en.wikipedia.org/wiki/File:Increase2.svg\" src=\"//thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/20px-Increase2.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" srcset=\"//thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/40px-Increase2.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" width=\"11\"/></span></span> <span about=\"#mwt8\" data-mw='{\"parts\":[{\"template\":{\"target\":{\"wt\":\"ntsh\",\"href\":\"./Template:Ntsh\"},\"params\":{\"1\":{\"wt\":\"3.0\"}},\"i\":0}}]}' data-sort-value=\"7000300000000000000♠\" id=\"mwTw\" style=\"display:none\" typeof=\"mw:Transclusion\"></span> 5.1%</td>\n",
+              "<td id=\"mwUA\" style=\"text-align:center;\">2,100,000</td>\n",
+              "<td id=\"mwUQ\"><a href=\"https://en.wikipedia.org/wiki/Bentonville,_Arkansas\" id=\"mwUg\" rel=\"mw:WikiLink\" title=\"Bentonville, Arkansas\">Bentonville, Arkansas</a></td></tr>\n",
+              "<tr id=\"mwUw\">\n",
+              "<td id=\"mwVA\">2</td>\n",
+              "<td id=\"mwVQ\"><a href=\"https://en.wikipedia.org/wiki/Amazon_(company)\" id=\"mwVg\" rel=\"mw:WikiLink\" title=\"Amazon (company)\">Amazon</a></td>\n",
+              "<td id=\"mwVw\">Retail and cloud computing</td>\n",
+              "<td id=\"mwWA\" style=\"text-align:center;\">637,959</td>\n",
+              "<td id=\"mwWQ\" style=\"text-align:center;\"><span about=\"#mwt9\" data-mw='{\"caption\":\"Increase\",\"parts\":[{\"template\":{\"target\":{\"wt\":\"profit\",\"href\":\"./Template:Profit\"},\"params\":{},\"i\":0}}]}' id=\"mwWg\" typeof=\"mw:Transclusion mw:File\"><span title=\"Increase\"><img alt=\"Increase\" class=\"mw-file-element\" data-file-height=\"300\" data-file-type=\"drawing\" data-file-width=\"300\" decoding=\"async\" height=\"11\" loading=\"lazy\" resource=\"https://en.wikipedia.org/wiki/File:Increase2.svg\" src=\"//thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/20px-Increase2.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" srcset=\"//thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/40px-Increase2.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" width=\"11\"/></span></span> <span about=\"#mwt10\" data-mw='{\"parts\":[{\"template\":{\"target\":{\"wt\":\"ntsh\",\"href\":\"./Template:Ntsh\"},\"params\":{\"1\":{\"wt\":\"3.0\"}},\"i\":0}}]}' data-sort-value=\"7000300000000000000♠\" id=\"mwWw\" style=\"display:none\" typeof=\"mw:Transclusion\"></span> 11.0%</td>\n",
+              "<td id=\"mwXA\" style=\"text-align:center;\">1,556,000</td>\n",
+              "<td id=\"mwXQ\"><a href=\"https://en.wikipedia.org/wiki/Seattle\" id=\"mwXg\" rel=\"mw:WikiLink\" title=\"Seattle\">Seattle, Washington</a></td></tr>\n",
+              "<tr id=\"mwXw\">\n",
+              "<td id=\"mwYA\">3</td>\n",
+              "<td id=\"mwYQ\"><a href=\"https://en.wikipedia.org/wiki/UnitedHealth_Group\" id=\"mwYg\" rel=\"mw:WikiLink\" title=\"UnitedHealth Group\">UnitedHealth Group</a></td>\n",
+              "<td id=\"mwYw\">Healthcare</td>\n",
+              "<td id=\"mwZA\" style=\"text-align:center;\">400,278</td>\n",
+              "<td id=\"mwZQ\" style=\"text-align:center;\"><span about=\"#mwt11\" data-mw='{\"caption\":\"Increase\",\"parts\":[{\"template\":{\"target\":{\"wt\":\"profit\",\"href\":\"./Template:Profit\"},\"params\":{},\"i\":0}}]}' id=\"mwZg\" typeof=\"mw:Transclusion mw:File\"><span title=\"Increase\"><img alt=\"Increase\" class=\"mw-file-element\" data-file-height=\"300\" data-file-type=\"drawing\" data-file-width=\"300\" decoding=\"async\" height=\"11\" loading=\"lazy\" resource=\"https://en.wikipedia.org/wiki/File:Increase2.svg\" src=\"//thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/20px-Increase2.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" srcset=\"//thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/40px-Increase2.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" width=\"11\"/></span></span> <span about=\"#mwt12\" data-mw='{\"parts\":[{\"template\":{\"target\":{\"wt\":\"ntsh\",\"href\":\"./Template:Ntsh\"},\"params\":{\"1\":{\"wt\":\"3.0\"}},\"i\":0}}]}' data-sort-value=\"7000300000000000000♠\" id=\"mwZw\" style=\"display:none\" typeof=\"mw:Transclusion\"></span> 7.7%</td>\n",
+              "<td id=\"mwaA\" style=\"text-align:center;\">400,000</td>\n",
+              "<td id=\"mwaQ\"><a href=\"https://en.wikipedia.org/wiki/Minnetonka,_Minnesota\" id=\"mwag\" rel=\"mw:WikiLink\" title=\"Minnetonka, Minnesota\">Minnetonka, Minnesota</a></td></tr>\n",
+              "<tr id=\"mwaw\">\n",
+              "<td id=\"mwbA\">4</td>\n",
+              "<td id=\"mwbQ\"><a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Apple_Inc\" id=\"mwbg\" rel=\"mw:WikiLink\" title=\"Apple Inc\">Apple</a></td>\n",
+              "<td id=\"mwbw\">Technology</td>\n",
+              "<td id=\"mwcA\" style=\"text-align:center;\">391,035</td>\n",
+              "<td id=\"mwcQ\" style=\"text-align:center;\"><span about=\"#mwt13\" data-mw='{\"caption\":\"Increase\",\"parts\":[{\"template\":{\"target\":{\"wt\":\"profit\",\"href\":\"./Template:Profit\"},\"params\":{},\"i\":0}}]}' id=\"mwcg\" typeof=\"mw:Transclusion mw:File\"><span title=\"Increase\"><img alt=\"Increase\" class=\"mw-file-element\" data-file-height=\"300\" data-file-type=\"drawing\" data-file-width=\"300\" decoding=\"async\" height=\"11\" loading=\"lazy\" resource=\"https://en.wikipedia.org/wiki/File:Increase2.svg\" src=\"//thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/20px-Increase2.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" srcset=\"//thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/40px-Increase2.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" width=\"11\"/></span></span> <span about=\"#mwt14\" data-mw='{\"parts\":[{\"template\":{\"target\":{\"wt\":\"ntsh\",\"href\":\"./Template:Ntsh\"},\"params\":{\"1\":{\"wt\":\"3.0\"}},\"i\":0}}]}' data-sort-value=\"7000300000000000000♠\" id=\"mwcw\" style=\"display:none\" typeof=\"mw:Transclusion\"></span> 2.0%</td>\n",
+              "<td id=\"mwdA\" style=\"text-align:center;\">164,000</td>\n",
+              "<td id=\"mwdQ\"><a href=\"https://en.wikipedia.org/wiki/Cupertino,_California\" id=\"mwdg\" rel=\"mw:WikiLink\" title=\"Cupertino, California\">Cupertino, California</a></td></tr>\n",
+              "<tr id=\"mwdw\">\n",
+              "<td id=\"mweA\">5</td>\n",
+              "<td id=\"mweQ\"><a href=\"https://en.wikipedia.org/wiki/CVS_Health\" id=\"mweg\" rel=\"mw:WikiLink\" title=\"CVS Health\">CVS Health</a></td>\n",
+              "<td id=\"mwew\">Healthcare</td>\n",
+              "<td id=\"mwfA\" style=\"text-align:center;\">372,809</td>\n",
+              "<td id=\"mwfQ\" style=\"text-align:center;\"><span about=\"#mwt15\" data-mw='{\"caption\":\"Increase\",\"parts\":[{\"template\":{\"target\":{\"wt\":\"profit\",\"href\":\"./Template:Profit\"},\"params\":{},\"i\":0}}]}' id=\"mwfg\" typeof=\"mw:Transclusion mw:File\"><span title=\"Increase\"><img alt=\"Increase\" class=\"mw-file-element\" data-file-height=\"300\" data-file-type=\"drawing\" data-file-width=\"300\" decoding=\"async\" height=\"11\" loading=\"lazy\" resource=\"https://en.wikipedia.org/wiki/File:Increase2.svg\" src=\"//thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/20px-Increase2.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" srcset=\"//thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/40px-Increase2.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" width=\"11\"/></span></span> <span about=\"#mwt16\" data-mw='{\"parts\":[{\"template\":{\"target\":{\"wt\":\"ntsh\",\"href\":\"./Template:Ntsh\"},\"params\":{\"1\":{\"wt\":\"3.0\"}},\"i\":0}}]}' data-sort-value=\"7000300000000000000♠\" id=\"mwfw\" style=\"display:none\" typeof=\"mw:Transclusion\"></span> 4.2%</td>\n",
+              "<td id=\"mwgA\" style=\"text-align:center;\">259,500</td>\n",
+              "<td id=\"mwgQ\"><a href=\"https://en.wikipedia.org/wiki/Woonsocket,_Rhode_Island\" id=\"mwgg\" rel=\"mw:WikiLink\" title=\"Woonsocket, Rhode Island\">Woonsocket, Rhode Island</a></td></tr>\n",
+              "<tr id=\"mwgw\">\n",
+              "<td id=\"mwhA\">6</td>\n",
+              "<td id=\"mwhQ\"><a href=\"https://en.wikipedia.org/wiki/Berkshire_Hathaway\" id=\"mwhg\" rel=\"mw:WikiLink\" title=\"Berkshire Hathaway\">Berkshire Hathaway</a></td>\n",
+              "<td id=\"mwhw\">Conglomerate</td>\n",
+              "<td id=\"mwiA\" style=\"text-align:center;\">371,433</td>\n",
+              "<td id=\"mwiQ\" style=\"text-align:center;\"><span about=\"#mwt17\" data-mw='{\"caption\":\"Increase\",\"parts\":[{\"template\":{\"target\":{\"wt\":\"profit\",\"href\":\"./Template:Profit\"},\"params\":{},\"i\":0}}]}' id=\"mwig\" typeof=\"mw:Transclusion mw:File\"><span title=\"Increase\"><img alt=\"Increase\" class=\"mw-file-element\" data-file-height=\"300\" data-file-type=\"drawing\" data-file-width=\"300\" decoding=\"async\" height=\"11\" loading=\"lazy\" resource=\"https://en.wikipedia.org/wiki/File:Increase2.svg\" src=\"//thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/20px-Increase2.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" srcset=\"//thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/40px-Increase2.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" width=\"11\"/></span></span> <span about=\"#mwt18\" data-mw='{\"parts\":[{\"template\":{\"target\":{\"wt\":\"ntsh\",\"href\":\"./Template:Ntsh\"},\"params\":{\"1\":{\"wt\":\"3.0\"}},\"i\":0}}]}' data-sort-value=\"7000300000000000000♠\" id=\"mwiw\" style=\"display:none\" typeof=\"mw:Transclusion\"></span> 1.9%</td>\n",
+              "<td id=\"mwjA\" style=\"text-align:center;\">392,400</td>\n",
+              "<td id=\"mwjQ\"><a href=\"https://en.wikipedia.org/wiki/Omaha,_Nebraska\" id=\"mwjg\" rel=\"mw:WikiLink\" title=\"Omaha, Nebraska\">Omaha, Nebraska</a></td></tr>\n",
+              "<tr id=\"mwjw\">\n",
+              "<td id=\"mwkA\">7</td>\n",
+              "<td id=\"mwkQ\"><a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Alphabet_Inc\" id=\"mwkg\" rel=\"mw:WikiLink\" title=\"Alphabet Inc\">Alphabet</a></td>\n",
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next in
